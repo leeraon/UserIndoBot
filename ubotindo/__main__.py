@@ -85,7 +85,7 @@ buttons = [
             text="Add to Group 👥", url="t.me/userbotindobot?startgroup=true"
         ),
         InlineKeyboardButton(
-            text="Gban Logs 🚫", url="https://t.me/sexareabanlog"
+            text="Our Channel", url="https://t.me/binalareaa"
         ),
     ]
 ]
@@ -98,7 +98,7 @@ buttons += [
             url=f"t.me/{dispatcher.bot.username}?start=help",
         ),
         InlineKeyboardButton(
-            text="Support Channel", url="https://t.me/binalareaa"
+            text="Owner", url="https://t.me/drewmer"
         ),
     ]
 ]
